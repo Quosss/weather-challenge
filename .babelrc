@@ -1,0 +1,10 @@
+// se utiliza para entender el codigo de jsx
+{
+    "presets": [
+        "@babel/env",
+        "@babel/preset-react"
+    ],
+    "plugins": [
+        "@babel/plugin-proposal-class-properties"
+    ]
+}
